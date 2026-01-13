@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Logando com usuário válido</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>346aa60e-ed8e-49d4-b9bc-903e4da759f3</testCaseGuid>
+</TestCaseEntity>

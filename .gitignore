@@ -1,0 +1,33 @@
+.gradle
+
+bin
+
+Reports
+
+Libs
+
+output
+
+!output/.gitkeep
+build
+
+.classpath
+
+.project
+
+.cache
+
+# Katalon
+.bin
+.settings
+Drivers
+Reports
+Screenshots
+TestOps
+Libs
+*.log
+
+# Sistema
+.DS_Store
+Thumbs.db
+

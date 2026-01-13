@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>Dados do login</name>
+   <tag></tag>
+   <connectionProperties/>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>87be3e22-63ce-4ac4-a1fa-c011f5c76d35</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>standard_user kPmcf2oSvMqf3j1P3Y03uA%3D%3D</data>
+   <data>locked_out_user kPmcf2oSvMqf3j1P3Y03uA%3D%3D</data>
+   <data>problem_user kPmcf2oSvMqf3j1P3Y03uA%3D%3D</data>
+   <data>performance_glitch_user kPmcf2oSvMqf3j1P3Y03uA%3D%3D</data>
+   <data>null null</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>username</name>
+      <size>5</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>1</columnIndex>
+      <name>password</name>
+      <size>5</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

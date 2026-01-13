@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CT02 - Login com usuário e senha em branco</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>898de35a-c708-4934-a580-992525ef7c83</testCaseGuid>
+</TestCaseEntity>

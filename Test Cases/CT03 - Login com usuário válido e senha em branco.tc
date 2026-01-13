@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CT03 - Login com usuário válido e senha em branco</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>49ed6c1a-d555-4f85-a72e-9407554f6e16</testCaseGuid>
+</TestCaseEntity>

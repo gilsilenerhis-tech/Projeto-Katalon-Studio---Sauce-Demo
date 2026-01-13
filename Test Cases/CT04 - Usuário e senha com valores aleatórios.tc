@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CT04 - Usuário e senha com valores aleatórios</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6a7aeee0-28b8-4dc2-8cad-b0cfdb884159</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CT05 - Login válido</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2742928c-f03f-4862-987a-6dcf9064ff66</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value></value>
+      <variableId>ea272087-9e5a-436a-8082-98ad8a829e3c</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value></value>
+      <variableId>86dc02ec-4a08-43e1-88ce-24bac2eccfd4</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ea272087-9e5a-436a-8082-98ad8a829e3c</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>86dc02ec-4a08-43e1-88ce-24bac2eccfd4</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

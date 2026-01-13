@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_Epic sadface Username is required</name>
+   <tag></tag>
+   <elementGuidId>d4594f69-911d-41c5-9929-b5bc02f2edd8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h3</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='login_button_container']/div/form/div[3]/h3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[data-test=&quot;error&quot;]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>4ddda53e-6c3e-4025-a8ca-90ed328bbceb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-test</name>
+      <type>Main</type>
+      <value>error</value>
+      <webElementGuid>08e76a81-2e6d-4819-92f5-657b87ab7ace</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Epic sadface: Username is required</value>
+      <webElementGuid>b851e41a-b34d-4f12-95dc-c23f835f1087</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;login_button_container&quot;)/div[@class=&quot;login-box&quot;]/form[1]/div[@class=&quot;error-message-container error&quot;]/h3[1]</value>
+      <webElementGuid>b59b91a2-e1e5-4a4b-9133-bcd0a83304bc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='login_button_container']/div/form/div[3]/h3</value>
+      <webElementGuid>de44b1c6-dd8d-45cb-a287-e595cab4e9d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Swag Labs'])[2]/following::h3[1]</value>
+      <webElementGuid>6024461f-c13e-4e73-bd1d-7c8271ce6d2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Accepted usernames are:'])[1]/preceding::h3[1]</value>
+      <webElementGuid>d97c56ba-b763-4233-a2aa-e1fcced551a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Epic sadface: Username is required']/parent::*</value>
+      <webElementGuid>013514d8-cc86-4bc7-b35b-01b3a433101e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h3</value>
+      <webElementGuid>fa76a94d-2911-4d79-916d-2e23b9c5519b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'Epic sadface: Username is required' or . = 'Epic sadface: Username is required')]</value>
+      <webElementGuid>d214b7c7-6b62-4375-b0d8-6a5d411f67d5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
